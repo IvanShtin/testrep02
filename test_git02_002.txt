@@ -1,1 +1,2 @@
 this test_git02_002
+QWERTY
